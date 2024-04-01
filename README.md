@@ -142,7 +142,7 @@ exerciseRoutine(function () {
 });
 
 // "Go for a five-mile run"
-// "Stretch! Work that core!"
+//  "Stretch! Work that core!"
 ```
 
 We can rewrite this to be more concise by using an arrow function:
